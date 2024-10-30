@@ -5,8 +5,8 @@
   ## 📜 Meus projetos:
       Paradise Py: Uma versão em .exe do Paradise Optimizer, que visa 
     otimizar processos de maneira eficiente e acessível.
-      HabWave: Um jogo em produção que se concentra em habilidades e 
-    ondas de inimigos, oferecendo uma experiência envolvente e desafiadora.
+      HawTek: Um aplicative de otimização feito em python que visa otimizar
+    seu computador de maneira simples e eficaz.
   ## ❓ Mais sobre:
       Estou comprometido com a inovação e a solução de problemas, e estou
     sempre buscando oportunidades para colaborar e crescer
