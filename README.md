@@ -1,6 +1,6 @@
 ### 🖥️ MXLSC
   ## 🧑 Quem sou eu?
-      Sou um programador com 15 anos e 2 de experiência em Python, e tenho um histórico 
+      Sou um programador com 15 anos de idade e 2 de experiência em Python, e tenho um histórico 
     diversificado que inclui trabalho com GD SCRIPT, HTML e programação em bloco.
   ## 📜 Meus projetos:
       Paradise Py: Uma versão em .exe do Paradise Optimizer, que visa 
