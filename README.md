@@ -17,3 +17,5 @@
     sempre buscando oportunidades para colaborar e crescer
     profissionalmente. Estou ansioso para compartilhar conhecimentos e
     explorar novas possibilidades com outros profissionais da área.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F71APGG8)
