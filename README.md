@@ -63,10 +63,10 @@
 
 ---
 
-<h3 align="center"">☕ Quer apoiar meu café e meus códigos?</h3>
+<h3 align="center"">☕ Quer me apoiar?</h3>
 <p align="center">
-  <a href="https://ko-fi.com/mxlscxxx" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Apoie-me no Ko-fi" />
+  <a href="https://pixgg.com/Mxlsc" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ21eix780t2zVkFTIPmvfEPa1Sx2EwM6oxgg&s" height="80" width="220" alt="Apoie-me no PIX GG" />
   </a>
 </p>
 
