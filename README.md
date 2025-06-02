@@ -43,15 +43,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mxlsc-XXX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mxlsc-XXX&theme=radical" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxlsc-XXX&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 <h3 align="center">☕ Quer me apoiar?</h3>
 <p align="center">
   <a href="https://pixgg.com/Mxlsc" target="_blank">
