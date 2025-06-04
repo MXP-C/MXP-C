@@ -41,13 +41,14 @@ Lá tem meus apps, bots e outros dev vibes.
 
 [📌 GitHub](https://github.com/Mxlsc-XXX)  
 [📱 Discord](https://discordapp.com/users/586608984560238595)  
-[📞](https://wa.me/+5513974140538)
+[📞 Whatsapp](https://wa.me/+5513974140538)
 
 ---
 
 ### ☕ Quer me apoiar?
 
 💸 Manda um [PIX](https://pixgg.com/Mxlsc)
+
 🤝 Ou só manda um "valeu" no Discord que já fico feliz!
 
 ---
@@ -57,4 +58,4 @@ Lá tem meus apps, bots e outros dev vibes.
 
 ---
 
-M <3
+# M <img src="https://symbl-cdn.com/i/webp/c8/8d8213fdfc319115454d1a34b7b36e.webp" width="25"/>
