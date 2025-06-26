@@ -10,7 +10,7 @@ Rhodium - Raro e extremamente util, facilitando sua vida com diversas funções.
 HTML (o básico do front), Kotlin (pra dar uns rolê no Android), e frameworks Python como Django e Flask.
 
 📂 **Meus projetos:**  
-[🌐 mxlsc-xxx.github.io](https://mxlsc-xxx.github.io/Mxlsc.github.io/)  
+[🌐 mxlsc-xxx](https://mxlsc-xxx.github.io/Mxlsc)  
 Lá tem meus apps, bots e outros dev vibes.
 
 📫 **Contato direto:**  
@@ -49,12 +49,12 @@ Lá tem meus apps, bots e outros dev vibes.
 
 💸 Manda um [PIX](https://pixgg.com/Mxlsc)
 
-🤝 Ou só manda um "valeu" no Discord que já fico feliz!
+🤝 Ou só manda um "valeu" no Zap que já fico feliz!
 
 ---
 
 > “Código limpo, PC rápido e dev com sono. É sobre isso.”  
-— Eu mesmo, todo dia às 2 da manhã
+— Eu mesmo, todo dia às 2:45 da manhã
 
 ---
 
