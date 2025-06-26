@@ -1,5 +1,5 @@
 # Olá, eu sou o Mxlsc 🛠️
-Dev de automações, bots e softwares — com uma queda por Python e umas ideias meio malucas 💻🐍
+Dev de automações, sites e softwares — com uma queda por Python e umas ideias meio malucas 💻🐍
 
 ![Coding gif](https://github.com/Mxlsc-XXX/Mxlsc-XXX/blob/main/dsn.png?raw=true)
 
