@@ -4,7 +4,7 @@ Dev de automações, sites e softwares — com uma queda por Python e umas ideia
 ![Coding gif](https://github.com/Mxlsc-XXX/Mxlsc-XXX/blob/main/dsn.png?raw=true)
 
 🚧 **Trabalhando atualmente:**  
-AYL - Automatizing Your Life (Aplicativo de automação poderoso com diversas funcionalidades)
+Rhodium - Raro e extremamente util, facilitando sua vida com diversas funções.
 
 🌱 **Aprendendo no momento:**  
 HTML (o básico do front), Kotlin (pra dar uns rolê no Android), e frameworks Python como Django e Flask.
