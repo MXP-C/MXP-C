@@ -53,9 +53,4 @@ Lá tem meus apps, bots e outros dev vibes.
 
 ---
 
-> “Código limpo, PC rápido e dev com sono. É sobre isso.”  
-— Eu mesmo, todo dia às 2:45 da manhã
-
----
-
 # M <img src="https://symbl-cdn.com/i/webp/c8/8d8213fdfc319115454d1a34b7b36e.webp" width="25"/>
