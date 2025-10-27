@@ -7,10 +7,6 @@
   Dev de automações, sites e softwares — com uma queda por Python e umas ideias meio malucas
 </p>
 
-<p align="center">
-  <img src="https://github.com/Mxlsc-XXX/Mxlsc-XXX/blob/main/dsn.png?raw=true" alt="Coding gif" width="70%" />
-</p>
-
 ---
 
 ## 🚧 Trabalhando atualmente:
