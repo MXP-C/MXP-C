@@ -1,11 +1,15 @@
 <!-- Header estilizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B00020&height=200&section=header&text=Olá,%20eu%20sou%20o%20Mxlsc%20&fontSize=40&textColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B00020&height=200&section=header&text=Olá,%20eu%20sou%20o%20MXP-C%20&fontSize=40&textColor=FFFFFF" />
 </p>
 
 <p align="center">
   Dev de automações, sites e softwares — com uma queda por Python e umas ideias meio malucas
 </p>
+
+---
+
+**M**y e**XP**erience and **C**reativity
 
 ---
 
