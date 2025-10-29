@@ -1,78 +1,75 @@
-<!-- Header estilizado -->
+<!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B00020&height=200&section=header&text=Olá,%20eu%20sou%20o%20MXP-C%20&fontSize=40&textColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Olá,%20eu%20sou%20o%20MXP-C&fontSize=40&textColor=FFFFFF&animation=fadeIn" />
 </p>
 
-<p align="center">
-  Dev de automações, sites e softwares — com uma queda por Python e umas ideias meio malucas
-</p>
+<div align="center" style="max-width: 800px; margin: auto;">
 
----
-
-**M**y e**XP**erience and **C**reativity
-
----
-
-## 🚧 Trabalhando atualmente:
-
-> **🧪 Rhodium** — Raro e extremamente útil, facilitando sua vida com várias funções.
-> **☕ Clarity** — O essencial para manter sua rotina organizada e para facilitar seu processo de produção e/ou aprendizagem.
-
----
-
-## 🌱 Aprendendo no momento:
-
-> - 🧱 **HTML** — mandando ver no intermediário do front
-> - 📱 **Kotlin** — pra dar uns rolê no Android  
-> - ⚙️ **Django & Flask** — frameworks Python de responsa
-
----
-
-## 📫 Contato direto:
-
-- 📩 **Email:** mxlscxxx@gmail.com  
-- 📞 **Whatsapp:** [Clique aqui](https://wa.me/+5513974140538)  
----
-
-## 🛠️ Skills & Ferramentas:
-
-### 🧑‍💻 Linguagens:
-> 🐍 Python • 🧠 Bash • 💬 Markdown • 📄 HTML/CSS (em progresso)
-
-### 🧩 Frameworks e libs:
-> 📦 PySide6 • Flask • Django (aprendendo)  
-> 📌 Selenium • PyAutoGUI • Requests • BeautifulSoup
-
-### 🧰 Ferramentas:
-> 🧼 VS Code • 🐙 Git & GitHub • 💾 Figma (só o básico) • 🔧 Windows PowerToys
-
-### 🎯 Extras nerds:
-> - Gosto de automatizar tudo (até levantar da cama, se desse)  
-> - Crio ferramentas que facilitam a vida e otimizam o PC  
-> - Também curto programar joguinhos simples e mexer com shaders do Minecraft 😎
-
----
-
-## 🌍 Onde me encontrar:
-
-<p align="center">
-  <a href="https://discordapp.com/users/586608984560238595">📱 Discord</a> • 
-  <a href="https://wa.me/+5513974140538">📞 Whatsapp</a>
+<p>
+  💻 Dev de automações, sites e softwares — apaixonado por Python e ideias fora da caixa
 </p>
 
 ---
 
-## ☕ Quer me apoiar?
+<h3>⚙️ My eXPerience and Creativity</h3>
 
-<p align="center">
+---
+
+## 🚧 Projetos Atuais
+| Projeto | Descrição |
+|----------|------------|
+| 📥 **PDFinder** | Ache PDFs gratuitos online de maneira simples e rápida. |
+| 🧪 **Rhodium** | Ferramenta versátil que automatiza e simplifica tarefas |
+| ☕ **Clarity** | Sistema de produtividade e organização pessoal |
+
+---
+
+## 🌱 Aprendendo
+> 🧱 **HTML/CSS (intermediário)** • ⚙️ **Django & Flask** • 📱 **Kotlin**
+
+---
+
+## 🧠 Habilidades
+
+### 💻 Linguagens
+🐍 Python • 🧠 Bash • 💬 Markdown • 📄 HTML/CSS  
+
+### 🧩 Frameworks e Libs
+📦 PySide6 • Flask • Django (em progresso)  
+📌 Selenium • PyAutoGUI • Requests • BeautifulSoup  
+
+### ⚙️ Ferramentas
+🧼 VS Code • 🐙 Git & GitHub • 💾 Figma (básico) • 🔧 PowerToys  
+
+---
+
+## 🎮 Curiosidades
+> - Automatizo tudo o que consigo  
+> - Crio ferramentas pra otimizar PCs  
+> - Gosto de brincar com shaders e joguinhos 😎  
+
+---
+
+## 📫 Contato
+<p>
+  📩 <a href="mailto:mxlscxxx@gmail.com">Email</a> •  
+  💬 <a href="https://wa.me/+5513974140538">WhatsApp</a> •  
+  🖥️ <a href="https://discordapp.com/users/586608984560238595">Discord</a>
+</p>
+
+---
+
+## ☕ Apoie meu trabalho
+<p>
   <a href="https://pixgg.com/Mxlsc">💸 PIX via pixgg.com</a><br/>
-  🤝 Ou só manda um “valeu” no Zap que já fico feliz!
+  Ou só manda um “valeu” no Zap 😄
 </p>
+
+</div>
 
 ---
 
+<!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B00020&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer" />
 </p>
-
-<h3 align="center">M <img src="https://symbl-cdn.com/i/webp/c8/8d8213fdfc319115454d1a34b7b36e.webp" width="25"/></h3>
