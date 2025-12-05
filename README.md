@@ -9,6 +9,8 @@
   💻 Dev de automações, sites e softwares — apaixonado por Python e ideias fora da caixa
 </p>
 
+<a href="https://app.daily.dev/kmdev56"><img src="https://api.daily.dev/devcards/v2/P06Ts8HK60o9AunJGbDWQ.png?r=6zo&type=wide" width="652" alt="KmDev's Dev Card"/></a>
+
 ---
 
 ## 🚧 Projetos Atuais
