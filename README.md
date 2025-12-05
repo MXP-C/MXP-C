@@ -1,13 +1,4 @@
-<!-- ===== HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Olá,%20eu%20sou%20o%20KmDev&fontSize=40&textColor=FFFFFF&animation=fadeIn" />
-</p>
-
 <div align="center" style="max-width: 800px; margin: auto;">
-
-<p>
-  💻 Dev de automações, sites e softwares — apaixonado por Python e ideias fora da caixa
-</p>
 
 <a href="https://app.daily.dev/kmdev56"><img src="https://api.daily.dev/devcards/v2/P06Ts8HK60o9AunJGbDWQ.png?r=6zo&type=wide" width="652" alt="KmDev's Dev Card"/></a>
 
