@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Olá,%20eu%20sou%20o%20MXP-C&fontSize=40&textColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Olá,%20eu%20sou%20o%20KmDev&fontSize=40&textColor=FFFFFF&animation=fadeIn" />
 </p>
 
 <div align="center" style="max-width: 800px; margin: auto;">
@@ -8,10 +8,6 @@
 <p>
   💻 Dev de automações, sites e softwares — apaixonado por Python e ideias fora da caixa
 </p>
-
----
-
-<h3>⚙️ My eXPerience and Creativity</h3>
 
 ---
 
